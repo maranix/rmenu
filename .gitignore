@@ -1,0 +1,100 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcodeproj/*.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+# Add this section if your project uses Swift Package Manager
+# .swiftpm/
+
+# CocoaPods
+# Add this section if your project uses CocoaPods
+# /Pods/
+# !/Pods/Pods.xcodeproj/
+
+# Carthage
+# Add this section if your project uses Carthage
+# /Carthage/Build/
+
+# Xcode/SwiftUI user-specific files
+# Add this section if you want to ignore your user-specific settings and schemes
+# *.xcodeproj/xcuserdata/[YOUR_USERNAME].xcuserdatad/
+
+# Generated files
+# Add this section if your project has generated files
+# *.xcfilelist
+# *.xcassets
+# *.xcscheme
+# *.xcconfig
+
+# Local history
+# Add this section if you don't want to track Xcode's local history
+# xcuserdata
+
+# Swift Package Manager
+# Add this section if your project uses Swift Package Manager
+# .build/
+# Package.resolved
+
+# Swift Package Manager
+# Add this section if your project uses Swift Package Manager
+# .build/
+# Package.resolved
+# *.xcodeproj/*.swiftpm/
+
+# Xcode playgruonds
+# Add this section if your project uses Xcode playgrounds
+# *.playground
+
+# macOS specifics
+# Add this section if your project targets macOS
+# .DS_Store
+
+# iOS specifics
+# Add this section if your project targets iOS
+# .*.swiftpm
+
+# Carthage
+# Add this section if your project uses Carthage
+# /Carthage/Build/
+
+# Fastlane
+# Add this section if you use Fastlane for automating tasks
+# /fastlane/report.xml
+# /fastlane/Preview.html
+# /fastlane/screenshots/
+
+# Objective-C Bridging Header
+# Add this section if your project has an Objective-C Bridging Header
+# [YOUR_PROJECT_NAME]-Bridging-Header.h
+
+# Crashlytics
+# Add this section if your project uses Crashlytics
+# /Crashlytics/
+
+# Cocoapods
+# Add this section if your project uses Cocoapods
+# /Pods/
+# *.lock
+# *.xcworkspace
+
+# IDE
+# Add this section if your project uses a specific IDE
+# .idea/
+
+# Swift Package Manager
+# Add this section if your project uses Swift Package Manager
+# .build/
+# .swiftpm/
+# Package.resolved
+
+# Code Coverage
+# Add this section if your project uses code coverage
+# .*.xcscheme
+# *.xcuserdata/
+# *.xccoverage
+
+# Other
+# Add any other files or directories you want to ignore
