@@ -47,7 +47,7 @@ struct RestarauntMenuView: View {
                 
                 // Display the recommended items
                 RecommendedView()
-                    .frame(height: 300)
+                    .frame(maxHeight: 300)
                 
                 // Display the menu items categorized by their categories
                 MenuView()
