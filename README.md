@@ -2,6 +2,14 @@
 
 This is a Restaurant Menu App that allows users to explore a restaurant's menu items, view dietary options, and select their preferred diet for personalized recommendations. The app provides a user-friendly interface and follows the Apple Human Interface Guidelines.
 
+<p align="center">
+  <img width="32%" src="Screenshots/1.png?raw=true">
+  <img width="32%" src="Screenshots/2.png?raw=true">
+  <img width="32%" src="Screenshots/3.png?raw=true">
+  <img width="32%" src="Screenshots/4.png?raw=true">
+  <img width="32%" src="Screenshots/5.png?raw=true">
+</p>
+
 ## Features
 
 - View restaurant details, including name, description, address, and rating.
