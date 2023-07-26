@@ -56,9 +56,7 @@ open RestaurantMenu.xcodeproj
 
 4. After saving the diet preferences, the app will display the restaurant's menu items based on the selected diet preferences. Users can expand/collapse the menu categories to view the items in each category.
 
-5. If the user wants to change their dietary preferences, they can go back to the Diet Preferences screen and update their choices. The app will automatically update the menu based on the new preferences.
-
-6. Users can tap on a menu item to view its details, including name, description, price, and dietary information.
+> Note: If for some reason the recommendations always come up empty. Please try to restart the application, For some reason fetching the Diet Choices from UserDefaults after saving them always returns nil. I am hoping to debug it further and fix it.
 
 ## Contributing
 
@@ -69,6 +67,13 @@ Contributions to improve the app or add new features are welcome. To contribute,
 3. Make your changes and commit them.
 4. Push the changes to your forked repository.
 5. Create a pull request against the main repository.
+
+## Acknowledgement
+
+This project was a rather simple one and fun to do in general.
+
+However there is a bug which I could not fix or figure out the reason behind it. The DisclosureGroup used in the RestaurantMenuView causes the whole View to rebuilt rather than just that specific UI Element.
+
 
 ## Credits
 
